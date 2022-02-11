@@ -81,9 +81,23 @@ Project 8:
 · Design of a combinational circuit which realizes y = arccosh(x)  
   x € [1,32] --> x is signed 11-bit fixed point number, 6-digits decimal and 5 digits fraction.  
   y € [0,4]  --> y is signed 8-bit fixed point number, 4-digits decimal and 4 digits fraction.  
+  I've used C to create a LUT for this design to use case structure in verilog.  
+    
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------    
+ Project 9:  
+   
+ · Design of a circuit that detects two different 4-bit sequences "1001" and "0101" (They map overlap).
+   
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------    
+Project 10:  
+  
+· Calculate arithmetic mean of three 8-bit positive integers, 𝐴, 𝐵 and 𝐶 as 𝐷=⌊(𝐴+𝐵+𝐶)/3⌋. 𝐷 is a 8-bit positive integer.  Using the module structures given below.  
   
     
+[figure 1 TOP.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047971/figure.1.TOP.pdf)  
+[figure 2 RB.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047972/figure.2.RB.pdf)  
+[figure 3 ALU.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047973/figure.3.ALU.pdf)  
+
   
-  
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------    
 
