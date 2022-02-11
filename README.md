@@ -94,9 +94,16 @@ Project 10:
 · Calculate arithmetic mean of three 8-bit positive integers, 𝐴, 𝐵 and 𝐶 as 𝐷=⌊(𝐴+𝐵+𝐶)/3⌋. 𝐷 is a 8-bit positive integer.  Using the module structures given below.  
   
     
-[figure 1 TOP.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047971/figure.1.TOP.pdf)  
-[figure 2 RB.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047972/figure.2.RB.pdf)  
-[figure 3 ALU.pdf](https://github.com/canbozaci/FPGA---University-Classes/files/8047973/figure.3.ALU.pdf)  
+TOP MODULE:   
+![image](https://user-images.githubusercontent.com/81713653/153578743-c0e6546a-ef29-453c-a326-85ae0f98d140.png)  
+  
+RB MODULE:  
+![image](https://user-images.githubusercontent.com/81713653/153578807-c12c44a5-da6b-4d35-9814-69dfc2b205e0.png)  
+  
+ALU MODULE:  
+![image](https://user-images.githubusercontent.com/81713653/153578855-abac9357-a67b-48ec-a1fe-6f49cfb7023d.png)
+
+
 
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------    
