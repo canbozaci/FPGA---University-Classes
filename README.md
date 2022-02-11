@@ -1,6 +1,6 @@
 # FPGA---University-Classes
-FPGA Projects Done For the University Class in the Verilog HDL.  
-   
+FPGA Projects Done For the University Class in the Verilog HDL.    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------       
 Project 1:  
   
 · Decoder    
@@ -8,8 +8,7 @@ Project 1:
 · Multiplexer     
 · Demultiplexer 
 
-
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------     
 Project 2:  
   
 Realization of given truth table:  
@@ -18,10 +17,9 @@ Realization of given truth table:
 · With Decoder   
 · With MUX  
     
-  ![image](https://user-images.githubusercontent.com/81713653/153575116-84571b90-cba0-45ea-b933-be3b9258e975.png)  
-  
-    
-      
+![image](https://user-images.githubusercontent.com/81713653/153575116-84571b90-cba0-45ea-b933-be3b9258e975.png)  
+     
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------          
  Project 3:  
    
 · Half Adder    
@@ -30,7 +28,8 @@ Realization of given truth table:
 · Parametric Ripple Carry Adder
 · Carry Look Ahead Adder    
 · Signed Ripple Carry Adder    
-
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------    
 Project 4:  
    
 · Simple Memory Element    
@@ -43,7 +42,7 @@ Project 4:
 · Block RAM  
 · FIFO  
   
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------      
 Project 5:  
   
 · Creation of FSM Below:  
@@ -58,29 +57,25 @@ Project 5:
 
 · Circuit That Detects Four Consecutive '1' or '0'  
   
-  
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------      
 Project 6:  
   
 · Behavioral Multiplier    
 · Structural Multiplier    
 · 2D Convolution        
     
-    
-    
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------        
 Project 7:  
   
 · Image Processing System (Module Picture Given Below)  
     
 ![image](https://user-images.githubusercontent.com/81713653/153576719-637837c5-df58-4433-889f-ae0f155f8a22.png)  
   
-  
 Purpose of the design:  
   
-  ![image](https://user-images.githubusercontent.com/81713653/153576825-44f66bce-5143-4e62-a18f-14bf1d2e1e69.png)  
-    
-   
-
+![image](https://user-images.githubusercontent.com/81713653/153576825-44f66bce-5143-4e62-a18f-14bf1d2e1e69.png)  
+      
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------    
 Project 8:  
   
 · Design of a combinational circuit which realizes y = arccosh(x)  
